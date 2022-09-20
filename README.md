@@ -10,7 +10,7 @@
 ## 🦥 Github
 ![Prayson W. Daniel github stats](https://github-readme-stats.vercel.app/api?username=proteusiq&count_private=true&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&hide_title=true&theme=default)  
 
-👋🐍🦀
+👋 🐍🦀🌔  🔬🧪🛠️  🤖🍻🦄
 
 <!--
 **Proteusiq/proteusiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
