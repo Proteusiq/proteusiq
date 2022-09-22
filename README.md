@@ -1,7 +1,7 @@
 # 🐉 Prayson Wilfred Daniel
 
 <p> 
-<a href="https://proteusiq.github.com" target="_blank"><img alt="My Personal Website" src="https://img.shields.io/badge/-My--Homepage-2e8b57?logo=nones&style=for-the-badge" /></a> 
+<a href="https://proteusiq.github.com" target="_blank"><img alt="My Personal Website" src="https://img.shields.io/badge/🛖 Homepage-2e8b57?logo=nones&style=for-the-badge" /></a> 
 <a href="https://www.linkedin.com/in/prayson/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>    
 <a href="https://dev.to/proteusiq" target="_blank"><img alt="DEV" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=black" ></a>  
 
