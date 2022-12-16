@@ -12,6 +12,12 @@
 
 👋 🐍🦀🌔  🔬🧪🛠️  🤖🍻🦄 🎒
 
+## 🦜 Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![Rust](https://img.shields.io/badge/Rust-9558B2?style=for-the-badge&logo=rust&logoColor=white](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-739fff?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
 <!--
 **Proteusiq/proteusiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
