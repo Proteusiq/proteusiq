@@ -1,11 +1,10 @@
 # 🐉 Prayson Wilfred Daniel
 
-<p> 
-<a href="https://stackoverflow.com/users/6858244/prayson-w-daniel" target="_blank"><img alt="SO" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" /></a> 
-<a href="https://www.linkedin.com/in/prayson/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>    
-<a href="https://dev.to/proteusiq" target="_blank"><img alt="DEV" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=black" ></a>  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prayson/)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/proteusiq)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-0077B5?style=for-the-badge&logo=stackoverflow&color=white)](https://stackoverflow.com/users/6858244/prayson-w-daniel)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/proteusiq)
 
-</p>
 
 ## 🦥 Github
 ![Prayson W. Daniel github stats](https://github-readme-stats.vercel.app/api?username=proteusiq&count_private=true&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&hide_title=true&theme=tokyonight)  
