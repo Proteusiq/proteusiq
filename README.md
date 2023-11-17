@@ -9,8 +9,6 @@
 
 👋 🐍🦀🌔  🔬🧪🛠️  🤖🍻🦄 🎒
 
-[![Proteusiq's GitHub | Languages Over Time](https://stats.quine.sh/Proteusiq/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Proteusiq)
-
 [![Proteusiq's Stack Overflow | Stats](https://stats.quine.sh/Proteusiq/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Proteusiq)
 
 
