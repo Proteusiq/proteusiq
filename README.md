@@ -9,6 +9,11 @@
 
 👋 🐍🦀🌔  🔬🧪🛠️  🤖🍻🦄 🎒
 
+[![Proteusiq's GitHub | Languages Over Time](https://stats.quine.sh/Proteusiq/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Proteusiq)
+
+[![Proteusiq's Stack Overflow | Stats](https://stats.quine.sh/Proteusiq/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Proteusiq)
+
+
 ## 🦜 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -18,18 +23,3 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 
-
-<!--
-**Proteusiq/proteusiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
