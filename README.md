@@ -1,5 +1,10 @@
 # 🐉 Prayson Wilfred Daniel
 
+> Principal Data Scientist | _42 <br>
+> 🐙 Building innovative solutions with a strong focus on Community, Infrastructure as Code, <br>
+Microservice Architectures and taking into consideration Test Driven Development, <br> 
+SOLID Principles and Design Patterns, Testing in CD/CI’s DevOps pipelines is what I am passionate about.<br>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prayson/)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/proteusiq)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-0077B5?style=for-the-badge&logo=stackoverflow&color=white)](https://stackoverflow.com/users/6858244/prayson-w-daniel)
