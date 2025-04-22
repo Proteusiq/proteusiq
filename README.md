@@ -14,10 +14,7 @@ SOLID Principles and Design Patterns, Testing in CD/CI’s DevOps pipelines is w
 
 👋 🐍🦀🌔  🔬🧪🛠️  🤖🍻🦄 🎒
 
-<a href="https://stackoverflow.com/users/6858244/wasitshafi" target="_blank">
-<img alt="StackOverflow"
-src="https://stackoverflow-badge.vercel.app/?userID=6858244" />
-</a>
+![stack overflow rep. badge](https://stackoverflow-badge.herokuapp.com/stackoverflow?username=6858244&period=year&mini=false)
 
 
 ## 🦜 Languages
